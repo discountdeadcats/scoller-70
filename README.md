@@ -1,7 +1,7 @@
 # Scroller-70
 A 75% mechanical keyboard that uses a Xiao RP2040, Choc switches, and I/O expanders.
 
-This is untested and a work in progress
+# This is untested and a work in progress
 The design of this keyboard should work, but I have not yet received the PCBs and tested them.
 
 # BOM
@@ -21,7 +21,8 @@ My requirements were:
 4. Uses QMK
 
 # files
- gerbers scroller7.kicad_pcb.zip
- kicad files scroller7.zip
-case
-case left and right 
+gerbers scroller7.kicad_pcb.zip
+kicad files scroller7.zip
+# case
+case is pretty basic and will be changed 
+it is split so it will be printed 
