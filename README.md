@@ -10,9 +10,11 @@ The design of this keyboard should work, but I have not yet received the PCBs an
 One custom PCB ~20$
 Kailh Choc switches (84 pcs) ~40$
 Kailh Choc hot-swap sockets (84 pcs) ~10$
+
+
 # Description
 The goal of this project was mainly to build a keyboard to my liking. None of the keyboards I found were exactly what I needed, so I thought, "Why not build my own?" I have been meaning to learn KiCad and Fusion 360.
-
+My currwnet kyebord is one of the old apple usb keyboars, not idle 
 My requirements were:
 
 1. Choc switches
@@ -21,8 +23,8 @@ My requirements were:
 4. Uses QMK
 
 # files
-gerbers scroller7.kicad_pcb.zip
-kicad files scroller7.zip
+1. gerbers scroller7.kicad_pcb.zip
+2. kicad files scroller7.zip
 # case
 case is pretty basic and will be changed 
 it is split so it will be printed 
