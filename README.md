@@ -19,3 +19,9 @@ My requirements were:
 2. Hot-swappable
 3. Easy to solder
 4. Uses QMK
+
+# files
+ gerbers scroller7.kicad_pcb.zip
+ kicad files scroller7.zip
+case
+case left and right 
