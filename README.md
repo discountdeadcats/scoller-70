@@ -14,13 +14,17 @@ Kailh Choc hot-swap sockets (84 pcs) ~10$
 
 # Description
 The goal of this project was mainly to build a keyboard to my liking. None of the keyboards I found were exactly what I needed, so I thought, "Why not build my own?" I have been meaning to learn KiCad and Fusion 360.
-My currwnet kyebord is one of the old apple usb keyboars, not idle 
+My currwnet kyebord is one of the old apple usb keyboars, ideal,
+
+so far I mesed up the pcb so I have to make a PCA9505DGG Interposer so I can rwriew the trases
+
 My requirements were:
 
 1. Choc switches
 2. Hot-swappable
 3. Easy to solder
 4. Uses QMK
+5. has audio swithes
 
 # files
 1. gerbers scroller7.kicad_pcb.zip
